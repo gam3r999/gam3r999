@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gam3r999
-- 👀 I’m interested in GDI Malwares And Joke Programs!
+- 👀 I’m interested in GDI Malwares And Joke Programs and flipper zero content ofc!
 - 📫 How to reach me naumoffmanasseh@gmail.com
 - 😄 Pronouns: He/Him
