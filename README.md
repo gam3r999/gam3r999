@@ -6,13 +6,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gam3r999&style=for-the-badge&color=00ff41&label=VIEWS)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/▶_SUBSCRIBE-120-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
+[![YouTube](https://img.shields.io/badge/▶_SUBSCRIBE-120-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gam3r999)
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/gam3r999?style=for-the-badge&logo=github&color=FFD700&label=⭐+STARS)
 
 </div>
 
 ---
+
+<table>
+<tr>
+<td valign="top" width="65%">
 
 ## 👾 About Me
 
@@ -23,6 +27,17 @@ I build scripts and apps for Flipper Zero, dig into what devices can *really* do
 - 💀 GDI malware research *(educational / experimental only)*
 - ⚙️ Embedded and system-level experimentation
 - 🎥 Content creator — tutorials, demos, experiments
+
+</td>
+<td valign="top" width="35%">
+
+## 📊 Stats
+
+![gam3r999's Stats](https://github-readme-stats.vercel.app/api?username=gam3r999&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&hide_title=false)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,23 +56,21 @@ I build scripts and apps for Flipper Zero, dig into what devices can *really* do
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Languages Used
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gam3r999&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gam3r999&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="170"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gam3r999&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)](https://github.com/gam3r999)
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gam3r999&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=ff0000&currStreakLabel=00ff41" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=gam3r999&theme=matrix&hide_border=true&background=0D1117&ring=00ff41&fire=FF0000&currStreakLabel=00ff41)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 ## 💻 Featured Projects
+
+> ⬇ click each section to view its content
 
 <details>
 <summary>🐬 <b>Flipper Zero</b></summary>
@@ -104,7 +117,7 @@ Low-level system experimentation, embedded code, and hardware hacking projects.
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@gam3r999)
 
 Tutorials &bull; Demos &bull; Flipper Zero content &bull; GDI experiments
 
