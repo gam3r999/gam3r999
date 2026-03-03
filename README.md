@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td valign="top" width="65%">
+<td valign="top" width="60%">
 
 ## 👾 About Me
 
@@ -29,11 +29,9 @@ I build scripts and apps for Flipper Zero, dig into what devices can *really* do
 - 🎥 Content creator — tutorials, demos, experiments
 
 </td>
-<td valign="top" width="35%">
+<td valign="top" width="40%">
 
-## 📊 Stats
-
-![gam3r999's Stats](https://github-readme-stats.vercel.app/api?username=gam3r999&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&hide_title=false)
+<img src="https://gh-stats-gen.vercel.app/api?username=gam3r999&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
 
 </td>
 </tr>
@@ -56,13 +54,9 @@ I build scripts and apps for Flipper Zero, dig into what devices can *really* do
 
 ---
 
-## 🛠 Languages Used
-
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gam3r999&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)](https://github.com/gam3r999)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gam3r999&theme=matrix&hide_border=true&background=0D1117&ring=00ff41&fire=FF0000&currStreakLabel=00ff41)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gam3r999&theme=matrix&hide_border=true&background=0D1117&ring=00ff41&fire=FF0000&currStreakLabel=00ff41&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
