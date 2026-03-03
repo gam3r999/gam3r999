@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gam3r999&style=for-the-badge&color=00ff41&label=VIEWS)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/%E2%96%B6_SUBSCRIBE-120-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gam3r999)
+[![YouTube](https://img.shields.io/badge/%E2%96%B6_SUBSCRIBE-120-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/gam3r999?style=for-the-badge&logo=github&color=FFD700&label=STARS)
 
@@ -112,7 +112,7 @@ Low-level system experimentation, embedded code, and hardware hacking projects.
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@gam3r999)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
 
 Tutorials - Demos - Flipper Zero content - GDI experiments
 
