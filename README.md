@@ -1,46 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=header&text=gam3r999s%20Lab&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flipper%20Zero%20%7C%20GDI%20%7C%20Systems&descAlignY=58&descAlign=50" />
+# 👾 gam3r999's Lab
+### `Flipper Zero | GDI | Systems | Turning devices into weapons 🔥`
 
-<br/>
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-222222?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-222222?style=flat-square)
+![Sigint](https://img.shields.io/badge/Sigint-222222?style=flat-square)
+![Malware Dev](https://img.shields.io/badge/Malware_Dev-222222?style=flat-square)
+![Editing](https://img.shields.io/badge/Editing-222222?style=flat-square)
 
-![Profile Views](https://komarev.com/ghpvc/?username=gam3r999&style=for-the-badge&color=00ff41&label=VIEWS)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/%E2%96%B6_SUBSCRIBE-52-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
-&nbsp;
+![Views](https://komarev.com/ghpvc/?username=gam3r999&style=for-the-badge&color=00ff41&label=VIEWS)
+[![YouTube](https://img.shields.io/badge/SUBSCRIBE-120-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gam3r999)
 ![Stars](https://img.shields.io/github/stars/gam3r999?style=for-the-badge&logo=github&color=FFD700&label=STARS)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<table><tr><td valign="top" width="55%">
 
-## About Me
+## 👾 About Me
 
-Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer.
-I build scripts and apps for Flipper Zero, dig into what devices can *really* do,
-and experiment with system-level code that most people don't touch.
+Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scripts and apps for Flipper Zero, dig into what devices can *really* do, and experiment with system-level code that most people do not touch.
 
-- Flipper Zero scripts, payloads and custom apps
-- GDI malware research *(educational / experimental only)*
-- Embedded and system-level experimentation
-- Content creator, tutorials, demos, experiments
+- 🐬 Flipper Zero scripts, payloads and custom apps
+- 💀 GDI malware research *(educational only)*
+- ⚙️ Embedded and system-level experimentation
+- 🎥 Content creator
 
-</td>
-<td valign="top" width="40%">
+</td><td valign="top" width="45%">
 
-[![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=gam3r999&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)](https://github.com/gam3r999)
+[![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=gam3r999&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)](https://github.com/gam3r999)
 
-</td>
-</tr>
-</table>
+</td></tr></table>
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -57,13 +53,13 @@ and experiment with system-level code that most people don't touch.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gam3r999&theme=matrix&hide_border=true&background=0D1117&ring=00ff41&fire=FF0000&currStreakLabel=00ff41&dates=ffffff)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=gam3r999&theme=matrix&hide_border=true&background=0D1117&ring=00ff41&fire=FF0000&currStreakLabel=00ff41&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## Featured Projects
+## 💻 Featured Projects
 
 > click each section to view its content
 
@@ -73,7 +69,7 @@ and experiment with system-level code that most people don't touch.
 
 | Project | Description |
 |---|---|
-| [Flipper-Zero-BadUsb](https://github.com/gam3r999/Flipper-Zero-BadUsb) | BadUSB payloads and scripts for Flipper Zero |
+| [Flipper-Zero-BadUsb](https://github.com/gam3r999/Flipper-Zero-BadUsb) | BadUSB payloads and scripts |
 
 </details>
 
@@ -83,7 +79,7 @@ and experiment with system-level code that most people don't touch.
 
 | Project | Description |
 |---|---|
-| [GDI Experiments](https://github.com/gam3r999?tab=repositories) | Educational GDI-based experiments and demos |
+| [GDI Experiments](https://github.com/gam3r999?tab=repositories) | Educational GDI demos |
 
 </details>
 
@@ -91,7 +87,7 @@ and experiment with system-level code that most people don't touch.
 <summary>⚙️ <b>Embedded and Systems</b></summary>
 <br/>
 
-Low-level system experimentation, embedded code, and hardware hacking projects.
+Low-level system experimentation and hardware hacking.
 
 </details>
 
@@ -108,16 +104,20 @@ Low-level system experimentation, embedded code, and hardware hacking projects.
 
 ---
 
-## YouTube
+## 🎥 YouTube
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@gam3r999)
 
-Tutorials - Demos - Flipper Zero content - GDI experiments
+Tutorials - Demos - Flipper Zero - GDI experiments
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer" />
+<div align="center">
+
+**`Dont just use devices... own them.`** 🐬
+
+</div>
