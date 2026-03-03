@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=header&text=gam3r999s%20Lab&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
 <div align="center">
 
 # 👾 gam3r999's Lab
@@ -10,7 +12,7 @@
 ![Editing](https://img.shields.io/badge/Editing-222222?style=flat-square)
 
 ![Views](https://komarev.com/ghpvc/?username=gam3r999&style=for-the-badge&color=00ff41&label=VIEWS)
-[![YouTube](https://img.shields.io/badge/SUBSCRIBE-120-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gam3r999)
+[![YouTube](https://img.shields.io/badge/SUBSCRIBE-52-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
 ![Stars](https://img.shields.io/github/stars/gam3r999?style=for-the-badge&logo=github&color=FFD700&label=STARS)
 
 </div>
@@ -108,7 +110,7 @@ Low-level system experimentation and hardware hacking.
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@gam3r999)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
 
 Tutorials - Demos - Flipper Zero - GDI experiments
 
@@ -121,3 +123,5 @@ Tutorials - Demos - Flipper Zero - GDI experiments
 **`Dont just use devices... own them.`** 🐬
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer" width="100%" />
