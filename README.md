@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gam3r999&style=for-the-badge&color=00ff41&label=VIEWS)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/%E2%96%B6_SUBSCRIBE-120-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
+[![YouTube](https://img.shields.io/badge/%E2%96%B6_SUBSCRIBE-52-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/gam3r999?style=for-the-badge&logo=github&color=FFD700&label=STARS)
 
