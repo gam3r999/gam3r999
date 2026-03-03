@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=👾+Welcome+to+gam3r999s+Lab;Flipper+Zero+%7C+GDI+%7C+Systems;Turning+devices+into+weapons" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=👾+gam3r999's+Lab;Flipper+Zero+%7C+GDI+%7C+Systems;Turning+devices+into+weapons+🔥" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gam3r999&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
+![Profile Views](https://komarev.com/ghpvc/?username=gam3r999&style=for-the-badge&color=00ff41&label=VIEWS)
 &nbsp;
-<a href="https://youtube.com/@gam3r999">
-  <img src="https://img.shields.io/badge/SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+[![YouTube](https://img.shields.io/badge/▶_SUBSCRIBE-120-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
 &nbsp;
-<img src="https://img.shields.io/github/stars/gam3r999?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=FFD700" />
+![Stars](https://img.shields.io/github/stars/gam3r999?style=for-the-badge&logo=github&color=FFD700&label=⭐+STARS)
 
 </div>
 
@@ -18,10 +16,10 @@
 
 ## 👾 About Me
 
-Hey, I am **gam3r999** — a Flipper Zero enthusiast and GDI programmer.
-I build scripts and apps for Flipper Zero, dig into what devices can *really* do, and experiment with system-level code that most people do not touch.
+Hey — I'm **gam3r999**, a Flipper Zero enthusiast and GDI programmer.
+I build scripts and apps for Flipper Zero, dig into what devices can *really* do, and experiment with system-level code that most people don't touch.
 
-- 🐬 Flipper Zero scripts, payloads and custom apps
+- 🐬 Flipper Zero scripts, payloads & custom apps
 - 💀 GDI malware research *(educational / experimental only)*
 - ⚙️ Embedded and system-level experimentation
 - 🎥 Content creator — tutorials, demos, experiments
@@ -43,30 +41,15 @@ I build scripts and apps for Flipper Zero, dig into what devices can *really* do
 
 ---
 
-## 💻 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|--------|-------------|
-| [🐬 Flipper-Zero-BadUsb](https://github.com/gam3r999/Flipper-Zero-BadUsb) | BadUSB payloads and scripts for Flipper Zero |
-| [💀 GDI Experiments](https://github.com/gam3r999?tab=repositories) | Educational GDI-based experiments and demos |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gam3r999&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gam3r999&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gam3r999&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gam3r999&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="170"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gam3r999&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=ff0000&currStreakLabel=00ff41" />
 
@@ -74,24 +57,56 @@ I build scripts and apps for Flipper Zero, dig into what devices can *really* do
 
 ---
 
+## 💻 Featured Projects
+
+<details>
+<summary>🐬 <b>Flipper Zero</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| [Flipper-Zero-BadUsb](https://github.com/gam3r999/Flipper-Zero-BadUsb) | BadUSB payloads & scripts for Flipper Zero |
+
+</details>
+
+<details>
+<summary>💀 <b>GDI & Malware Research</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| [GDI Experiments](https://github.com/gam3r999?tab=repositories) | Educational GDI-based experiments & demos |
+
+</details>
+
+<details>
+<summary>⚙️ <b>Embedded & Systems</b></summary>
+<br/>
+
+Low-level system experimentation, embedded code, and hardware hacking projects.
+
+</details>
+
+<details open>
+<summary>💻 <b>Software & Mobile</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| [Flipper-Zero-BadUsb](https://github.com/gam3r999/Flipper-Zero-BadUsb) | BadUSB payload collection |
+| [GDI Experiments](https://github.com/gam3r999?tab=repositories) | Educational malware demos |
+
+</details>
+
+---
+
 ## 🎥 YouTube
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gam3r999)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
 
-Tutorials • Demos • Flipper Zero content • GDI experiments
-
-</div>
-
----
-
-## 📡 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-gam3r999-181717?style=for-the-badge&logo=github)](https://github.com/gam3r999)
-[![YouTube](https://img.shields.io/badge/YouTube-@gam3r999-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@gam3r999)
+Tutorials &bull; Demos &bull; Flipper Zero content &bull; GDI experiments
 
 </div>
 
@@ -99,6 +114,6 @@ Tutorials • Demos • Flipper Zero content • GDI experiments
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Dont+just+use+devices...+own+them.;Every+tool+is+a+weapon+if+you+hold+it+right.;Flipper+Zero+is+life." alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Don't+just+use+devices...+own+them.;Every+tool+is+a+weapon+if+you+hold+it+right.;🐬+Flipper+Zero+is+life." alt="footer" />
 
 </div>
