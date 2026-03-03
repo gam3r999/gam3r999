@@ -5,8 +5,6 @@
 # 👾 gam3r999's Lab
 ### `Flipper Zero | GDI | Systems | Turning devices into weapons 🔥`
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-222222?style=flat-square)
-![Robotics](https://img.shields.io/badge/Robotics-222222?style=flat-square)
 ![Sigint](https://img.shields.io/badge/Sigint-222222?style=flat-square)
 ![Malware Dev](https://img.shields.io/badge/Malware_Dev-222222?style=flat-square)
 ![Editing](https://img.shields.io/badge/Editing-222222?style=flat-square)
@@ -23,12 +21,12 @@
 
 ## 👾 About Me
 
-Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scripts and apps for Flipper Zero, dig into what devices can *really* do, and experiment with system-level code that most people do not touch.
+Hey I'm **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scripts and apps for Flipper Zero, dig into what devices can *really* do, and experiment with system-level code that most people don't touch.
 
-- 🐬 Flipper Zero scripts, payloads and custom apps
+- 🐬 Flipper Zero scripts, payloads & custom apps
 - 💀 GDI malware research *(educational only)*
 - ⚙️ Embedded and system-level experimentation
-- 🎥 Content creator
+- 🎥 Content creator — tutorials, demos, experiments
 
 </td><td valign="top" width="45%">
 
@@ -63,7 +61,7 @@ Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scr
 
 ## 💻 Featured Projects
 
-> click each section to view its content
+> ⬇ click each section to view its content
 
 <details>
 <summary>🐬 <b>Flipper Zero</b></summary>
@@ -71,30 +69,30 @@ Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scr
 
 | Project | Description |
 |---|---|
-| [Flipper-Zero-BadUsb](https://github.com/gam3r999/Flipper-Zero-BadUsb) | BadUSB payloads and scripts |
+| [Flipper-Zero-BadUsb](https://github.com/gam3r999/Flipper-Zero-BadUsb) | BadUSB payloads & scripts for Flipper Zero |
 
 </details>
 
 <details>
-<summary>💀 <b>GDI and Malware Research</b></summary>
+<summary>💀 <b>GDI & Malware Research</b></summary>
 <br/>
 
 | Project | Description |
 |---|---|
-| [GDI Experiments](https://github.com/gam3r999?tab=repositories) | Educational GDI demos |
+| [GDI Experiments](https://github.com/gam3r999?tab=repositories) | Educational GDI-based experiments & demos |
 
 </details>
 
 <details>
-<summary>⚙️ <b>Embedded and Systems</b></summary>
+<summary>⚙️ <b>Embedded & Systems</b></summary>
 <br/>
 
-Low-level system experimentation and hardware hacking.
+Low-level system experimentation, embedded code, and hardware hacking projects.
 
 </details>
 
 <details open>
-<summary>💻 <b>Software and Mobile</b></summary>
+<summary>💻 <b>Software & Mobile</b></summary>
 <br/>
 
 | Project | Description |
@@ -112,7 +110,7 @@ Low-level system experimentation and hardware hacking.
 
 [![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
 
-Tutorials - Demos - Flipper Zero - GDI experiments
+Tutorials • Demos • Flipper Zero content • GDI experiments
 
 </div>
 
@@ -120,7 +118,7 @@ Tutorials - Demos - Flipper Zero - GDI experiments
 
 <div align="center">
 
-**`Dont just use devices... own them.`** 🐬
+**`Don't just use devices... own them.`** 🐬
 
 </div>
 
