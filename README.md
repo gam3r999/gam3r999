@@ -5,6 +5,7 @@
 # 👾 gam3r999's Lab
 ### `Flipper Zero | GDI | Systems | Turning devices into weapons 🔥`
 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-222222?style=flat-square)
 ![Sigint](https://img.shields.io/badge/Sigint-222222?style=flat-square)
 ![Malware Dev](https://img.shields.io/badge/Malware_Dev-222222?style=flat-square)
 ![Editing](https://img.shields.io/badge/Editing-222222?style=flat-square)
