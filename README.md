@@ -43,11 +43,20 @@ Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scr
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -75,6 +84,7 @@ Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scr
 
 | Project | Description |
 |---|---|
+| [The Ultimate FZ Compiler](https://github.com/gam3r999/fz-online-compiler) | The only free online Flipper Zero FAP compiler that actually works |
 | [Flipper-Zero-BadUsb](https://github.com/gam3r999/Flipper-Zero-BadUsb) | BadUSB payloads and scripts |
 
 </details>
@@ -103,6 +113,7 @@ Low-level system experimentation and hardware hacking.
 
 | Project | Description |
 |---|---|
+| [The Ultimate FZ Compiler](https://github.com/gam3r999/fz-online-compiler) | The only free online Flipper Zero FAP compiler that actually works |
 | [Flipper-Zero-BadUsb](https://github.com/gam3r999/Flipper-Zero-BadUsb) | BadUSB payload collection |
 | [GDI Experiments](https://github.com/gam3r999?tab=repositories) | Educational malware demos |
 
