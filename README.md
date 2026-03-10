@@ -58,6 +58,7 @@ Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scr
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -69,6 +70,16 @@ Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scr
 <div align="center">
 
 [![Streak](https://streak-stats.demolab.com?user=gam3r999&theme=matrix&hide_border=true&background=0D1117&ring=00ff41&fire=FF0000&currStreakLabel=00ff41&dates=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gam3r999&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)](https://github.com/gam3r999)
 
 </div>
 
