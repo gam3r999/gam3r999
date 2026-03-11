@@ -33,6 +33,8 @@ Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scr
 
 [![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=gam3r999&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)](https://github.com/gam3r999)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gam3r999&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)](https://github.com/gam3r999)
+
 </td></tr></table>
 
 ---
@@ -70,16 +72,6 @@ Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scr
 <div align="center">
 
 [![Streak](https://streak-stats.demolab.com?user=gam3r999&theme=matrix&hide_border=true&background=0D1117&ring=00ff41&fire=FF0000&currStreakLabel=00ff41&dates=ffffff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📊 Most Used Languages
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gam3r999&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)](https://github.com/gam3r999)
 
 </div>
 
