@@ -36,6 +36,8 @@ Hey I am **gam3r999**, a Flipper Zero enthusiast and GDI programmer. I build scr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gam3r999&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)](https://github.com/gam3r999)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=amykatsouris&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
 </td></tr></table>
 
 ---
