@@ -9,7 +9,7 @@
 ![Sigint](https://img.shields.io/badge/Sigint-222222?style=flat-square)
 ![Malware Dev](https://img.shields.io/badge/Malware_Dev-222222?style=flat-square)
 ![Editing](https://img.shields.io/badge/Editing-222222?style=flat-square)
-![Web Dev](https://img.shields.io/badge/Web Dev-222222?style=flat-square)
+![Web Dev](https://img.shields.io/badge/Web%20Dev-222222?style=flat-square)
 
 ![Views](https://komarev.com/ghpvc/?username=gam3r999&style=for-the-badge&color=00ff41&label=VIEWS)
 [![YouTube](https://img.shields.io/badge/SUBSCRIBE-52-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RAND3M-x8i)
