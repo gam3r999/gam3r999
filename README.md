@@ -137,6 +137,16 @@ Tutorials - Demos - Flipper Zero - GDI experiments
 
 ---
 
+## 🎧 What I'm Listening To
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vv3pxj73lcjt6f2pgpdd43icqa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+---
+
 <div align="center">
 
 **`Dont just use devices... own them.`** 🐬
