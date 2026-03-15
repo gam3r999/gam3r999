@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=header&text=gam3r999s%20Lab&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
+:trollface: Problem?
+
 <div align="center">
 
 # 👾 gam3r999's Lab
