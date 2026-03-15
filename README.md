@@ -147,6 +147,16 @@ Tutorials - Demos - Flipper Zero - GDI experiments
 
 ---
 
+## 🎮 What I'm Playing
+
+<div align="center">
+
+[![Steam](https://steam-stat.vercel.app/api?profileName=https://steamcommunity.com/profiles/76561199777627748)](https://steamcommunity.com/profiles/76561199777627748)
+
+</div>
+
+---
+
 <div align="center">
 
 **`Dont just use devices... own them.`** 🐬
